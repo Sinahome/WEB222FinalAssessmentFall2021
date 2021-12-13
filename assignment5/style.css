@@ -1,0 +1,165 @@
+.mainPage{
+    margin: auto;
+    max-width: 1100px;
+}
+
+.content{
+    margin: auto;
+    max-width: 90%;
+}
+
+.body{
+    margin: auto;
+}
+
+.header{
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    background-color:rgb(255, 153, 0);
+    color:bisque;
+    font-size:larger;
+}
+.header h1{
+    margin: auto;
+}
+.header p{
+    margin: auto;
+    font-family: 'MonteCarlo', cursive;
+}
+
+.subContent1{
+    padding: 50px;
+    text-align: center;
+    background-color:rgb(255, 214, 161);
+}
+
+.image {
+    display: block;
+    margin: auto;
+	width: 150px;
+	height: 300px;
+}
+
+.content{
+    margin: auto;
+    text-align: center;
+}
+
+.resumeButton, .contactMeButton, .reset, .submit{
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color:lightyellow;
+}
+
+.subContent2{
+    margin: auto;
+    display: flex;
+    background-color:seashell;
+    text-align: center;
+}
+
+.aboutContainer{
+    margin: auto;
+    flex:50%;
+}
+
+.aboutContainer p{
+    font-family: 'Signika Negative', sans-serif;
+    text-align: left;
+}
+
+.aboutMe {
+    margin: auto;
+    padding: 20px;
+}
+
+.BasicInfo{
+    background-color:papayawhip;
+    padding: 15px;
+}
+
+th, td{
+    text-align: left;
+}
+
+.subContent3{
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(196, 190, 172);
+}
+
+.eduItem{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}
+
+.itemLeft{
+    padding: 20px;
+    width: 40%;
+    text-align: center;
+    background-color:rgb(131, 128, 123);
+    color: rgb(255, 250, 240);
+}
+
+.itemRight{
+    width: 500px;
+    padding: 20px;
+    text-align: left;
+    background-color:rgb(155, 151, 140);
+    color: azure;
+}
+
+.itemRight h2{
+    margin-top: 0px;
+}
+
+.itemRight p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:lightblue;
+}
+
+.subContent4{
+    padding: 20px;
+    margin: auto;
+    text-align: left;
+    background-color: rgb(253, 236, 215);
+}
+
+.formContainer{
+    padding: 10px;
+}
+
+.formContainer h1{
+    text-align: center;
+    background-color: rgb(255, 123, 0);;
+}
+
+#form{     
+    width: 300px;
+    margin:auto;
+    background-color:rgb(170, 156, 130);
+}
+
+.textbox{
+    width: 90%;
+    min-height: 4rem;
+}
+
+.subContent5{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(255, 153, 0);
+}
+
+.myMenu {
+    font-size: x-large;
+    padding: 20px 20px;
+}
